@@ -66,7 +66,7 @@ sudo rm /etc/systemd/system/suid.service
 
 # Node durumunu kontrol:
 ```
-service suid status
+service docker status
 ```
 ![image](https://user-images.githubusercontent.com/101149671/178118339-82da6b52-bdb9-425a-af8d-832a671141aa.png)
 
