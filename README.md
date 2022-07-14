@@ -27,7 +27,7 @@ wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/s
 
 ![image](https://user-images.githubusercontent.com/101149671/178118226-8ea930d4-a9d5-4bb3-be75-e682b0aac0ea.png)
 
-# Güncelleme yaptıysanız bu şekilde çıkacak:
+# Güncelleme veya sıfırdan kurulum yaptıysanız bu şekilde çıkacak:
 
 ![image](https://user-images.githubusercontent.com/101149671/178935325-ba533e58-5cfa-4d9d-81f2-d7d595009b3b.png)
 
