@@ -18,16 +18,12 @@ Node kurduktan sonra sonda söyleyeceğim işlemleri yapmayı unutmayın!!
 screen -S sui
 ```
 
-# Full nodeumuzu yükleyelim (15-20dk sürebilir)
+# Full nodeumuzu yükleyelim:
 ```
 wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/sui.sh && chmod +x sui.sh && ./sui.sh
 ```
 
 # Node başarılı çalıştıktan sonra karşınıza şu şekilde bir görsel çıkacak:
-
-![image](https://user-images.githubusercontent.com/101149671/178118226-8ea930d4-a9d5-4bb3-be75-e682b0aac0ea.png)
-
-# Güncelleme veya sıfırdan kurulum yaptıysanız bu şekilde çıkacak:
 
 ![image](https://user-images.githubusercontent.com/101149671/178935325-ba533e58-5cfa-4d9d-81f2-d7d595009b3b.png)
 
@@ -38,6 +34,23 @@ docker logs -f sui-fullnode-1 --tail 50
 
 ![image](https://user-images.githubusercontent.com/101149671/178935450-5928a3f9-e493-49f7-b235-913a56e7abc7.png)
 
+# Şimdi Sui Wallet'ı kullanacağız.
+
+* Sui Wallet'ı buradan indiriyoruz: [Wallet Linki](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/related)
+
+* Daha sonra discorda girip: [Discord](https://discord.gg/8G2SQvwA) #devnet-faucet kanalından oluşturduğumuz cüzdan adresıne token alalım.
+
+* DİKKAT ÇOK HIZLIDIR :)
+
+* Daha sonra Twiter'da paylaşacağım yorumların altında birbirinize Yorumlarda SUİ adresi paylaşarak token gönderin.
+
+* Benim adresim: 0x5c774c3e401f2c3a22dadb8014f843849d053fa1
+
+* Ek olarak NFT 'de gönderelim: Ayarlar kısmından mint NFT demo diyerek mintliyoruz.
+
+* Daha sonra buradan: http://sui-wallet-demo.s3-website-us-east-1.amazonaws.com/ bir NFT oluşturalım ve bunu birbirimize gönderelim.
+
+* Explorer https://explorer.devnet.sui.io/
 
 # Daha sonra discorda giriyoruz ve şu şekilde mesaj atıyoruz #node-ip-application kanalına: https://discord.gg/GUeN8TY7xD
 
