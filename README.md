@@ -36,6 +36,8 @@ docker logs -f sui-fullnode-1 --tail 50
 
 # Şimdi Sui Wallet'ı kullanacağız.
 
+* Telegram kanalı: https://t.me/SuiTurkish
+
 * Sui Wallet'ı buradan indiriyoruz: [Wallet Linki](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/related)
 
 * Daha sonra discorda girip: [Discord](https://discord.gg/8G2SQvwA) #devnet-faucet kanalından oluşturduğumuz cüzdan adresıne token alalım.
