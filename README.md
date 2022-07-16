@@ -56,6 +56,8 @@ docker logs -f sui-fullnode-1 --tail 50
 
 # Daha sonra discorda giriyoruz ve şu şekilde mesaj atıyoruz #node-ip-application kanalına: https://discord.gg/GUeN8TY7xD
 
+* DAHA ÖNCE ATTIYSANIZ BİR DAHA GEREKLİ DEĞİL ATMANIZ İÇİN
+
 ![image](https://user-images.githubusercontent.com/101149671/178118265-a2463048-f656-4382-87cf-faaef1d032d0.png)
 
 Not: #pick-a-role role kanalından da rol alabilirsiniz isterseniz emojilere tıklayarak.
