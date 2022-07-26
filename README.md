@@ -23,16 +23,13 @@ screen -S sui
 wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/sui.sh && chmod +x sui.sh && ./sui.sh
 ```
 
-# Node başarılı çalıştıktan sonra karşınıza şu şekilde bir görsel çıkacak:
-
-![image](https://user-images.githubusercontent.com/101149671/178935325-ba533e58-5cfa-4d9d-81f2-d7d595009b3b.png)
-
-# Logları kontrol:
+# Logları kontrol ve işlem bu kadar
 ```
-docker logs -f sui-fullnode-1 --tail 50
+journalctl -u suid -f -o cat
 ```
 
-![image](https://user-images.githubusercontent.com/101149671/178935450-5928a3f9-e493-49f7-b235-913a56e7abc7.png)
+![image](https://user-images.githubusercontent.com/101149671/181011248-0515cf24-a5a7-45f1-8226-ff07f49a7db5.png)
+
 
 # Şimdi Sui Wallet'ı kullanacağız.
 
