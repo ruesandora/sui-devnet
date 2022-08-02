@@ -23,6 +23,10 @@ screen -S sui
 ```
 wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/sui.sh && chmod +x sui.sh && ./sui.sh
 ```
+ # güncelleme
+```
+wget -qO update.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/tools/update.sh && chmod +x update.sh && ./update.sh
+```
 
 # Logları kontrol ve işlem bu kadar
 ```
