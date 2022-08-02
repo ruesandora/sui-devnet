@@ -36,7 +36,7 @@ journalctl -u suid -f -o cat
 
 * Sui Wallet'ı buradan indiriyoruz: [Wallet Linki](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil/related)
 
-* Daha sonra discorda girip: [Discord](https://discord.gg/8G2SQvwA) #devnet-faucet kanalından oluşturduğumuz cüzdan adresıne token alalım.
+* Daha sonra discorda girip: [Discord](https://discord.gg/Cj696xkn) #devnet-faucet kanalından oluşturduğumuz cüzdan adresıne token alalım.
 
 * DİKKAT ÇOK HIZLIDIR :)
 
