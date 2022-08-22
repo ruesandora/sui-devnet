@@ -1,0 +1,3 @@
+wget -O fixed.sh https://raw.githubusercontent.com/main/fixed.sh && chmod +x fixed.sh && ./fixed.sh
+sudo rm -rf /var/sui/db
+systemctl restart suid
